@@ -967,7 +967,7 @@
 	(footprint "Connector_RJ:RJ45_Amphenol_54602-x08_Horizontal"
 		(layer "F.Cu")
 		(uuid "01f802ba-065a-4574-a1cb-183a6689e989")
-		(at 120.06 50.39)
+		(at 128.06 50.39)
 		(descr "8 Pol Shallow Latch Connector, Modjack, RJ45 (https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0102.pdf)")
 		(tags "RJ45")
 		(property "Reference" "J2"
@@ -7023,7 +7023,7 @@
 	(footprint "Connector_RJ:RJ45_Amphenol_54602-x08_Horizontal"
 		(layer "F.Cu")
 		(uuid "42a26ac4-2fdd-40b8-bdda-82eb333837ef")
-		(at 103.75 50.39)
+		(at 95.7175 50.39)
 		(descr "8 Pol Shallow Latch Connector, Modjack, RJ45 (https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0102.pdf)")
 		(tags "RJ45")
 		(property "Reference" "J1"
